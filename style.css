@@ -1,0 +1,97 @@
+body {
+    background-image: url(anonymous.png);
+    background-position: center;
+    background-size: cover;
+    height: 250vh;
+}
+
+.hacker {
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    margin-left: 22.5%;
+}
+
+.logohacker {
+    margin: auto;
+    margin-left: -12.5%;
+}
+
+.hacker-ethique {
+    color: #D6BE91;
+    text-shadow: 5px 5px 5px;
+    text-align: center;
+    margin-top: 75px;
+    margin-right: 950px;
+}
+
+.défintion {
+    color: white;
+    text-shadow: 10px 10px 10px;
+    font-size: 22px;
+    text-align: left;
+    margin-right: 950px;
+    border: 2px solid white;
+}
+
+.metier {
+    color: green;
+    text-align: center;
+    margin-top: -200px;
+    margin-left: 950px;
+}
+
+.metier-p {
+    color: rgb(219, 5, 239);
+    text-shadow: 10px 10px 10px;
+    font-size: 23px;
+    margin-left: 950px;
+    margin-left: 950px;
+    border: 2px solid white;
+}
+
+.tableau-metier {
+    color: white;
+    text-shadow: 2px 2px 4px;
+    height: 250px;
+    font-size: 20px;
+    margin-top: -150px;
+    width: 40%;
+}
+
+td {
+    border: 1px solid;
+}
+
+.lesqualité {
+    color: purple;
+    text-shadow: 4px 4px 4px;
+    margin-top: 100px;
+    margin-left: 1050px;
+}
+
+.qualité-éthique {
+    color: brown;
+    text-shadow: 10px 10px 10px;
+    font-size: 22px;
+    margin-left: 800px;
+    border: 2px solid white;
+}
+
+.defaut {
+    color: gold;
+    text-shadow: 4px 4px 6px;
+    margin-top: -730px;
+    margin-right: 800px;
+}
+
+.defaut-1 {
+    color: deeppink;
+    text-shadow: 4px 4px 6px;
+    font-size: 22px;
+    margin-right: 800px;
+    border: 2px solid white;
+}
